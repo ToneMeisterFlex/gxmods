@@ -16,7 +16,7 @@
         {
             "background_music":
             [
-                "music/goofy_ah_beat.mp3",
+                "music/mc_cave_noises.mp3",
                 "music/wii_shop.mp3",
                 "music/kc_elevator.mp3",
                 "music/mrdiamond.mp3"
@@ -163,7 +163,7 @@
             {
                 "dark":
                 {   
-                    "image": "wallpaper/mine_craft.png",
+                    "image": "wallpaper/mine-craft.png",
                     "text_color": "#FFFFFF",
                     "text_shadow": "#757575"
                 },
