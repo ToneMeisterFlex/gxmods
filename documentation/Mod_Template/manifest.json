@@ -80,21 +80,21 @@
             {
                 "TYPING_BACKSPACE":
                 [
-                    "keyboard/backspace.mp3"
+                    "keyboard/thud.mp3"
                 ],
                 "TYPING_ENTER":
                 [
-                    "keyboard/enter.mp3"
+                    "keyboard/amogus.mp3"
                 ],
                 "TYPING_LETTER":
                 [
-                    "keyboard/letter_1.mp3",
-                    "keyboard/letter_2.mp3",
-                    "keyboard/letter_3.mp3"
+                    "keyboard/bruh.mp3",
+                    "keyboard/bruh.mp3",
+                    "keyboard/bruh.mp3"
                 ],
                 "TYPING_SPACE":
                 [
-                    "keyboard/space.mp3"
+                    "keyboard/vine_boom.mp3"
                 ]
             },
             "page_styles":
