@@ -1,8 +1,8 @@
 {
-    "description": "MOD DESCRIPTION GOES HERE",
+    "description": "Meme Board",
     "developer":
     {
-        "name": "DEVELOPER NAME GOES HERE"
+        "name": "Big T"
     },
     "icons":
     {
@@ -16,16 +16,16 @@
         {
             "background_music":
             [
-                "music/track_1.mp3",
-                "music/track_2.mp3",
-                "music/track_3.mp3",
-                "music/track_4.mp3"
+                "music/goofy_ah_beat.mp3",
+                "music/wii_shop.mp3",
+                "music/kc_elevator.mp3",
+                "music/mrdiamond.mp3"
             ],
             "browser_sounds":
             {
                 "CLICK":
                 [
-                    "sound/click.mp3"
+                    "sound/hit_marker.mp3"
                 ],
                 "FEATURE_SWITCH_OFF":
                 [
@@ -37,15 +37,15 @@
                 ],
                 "HOVER":
                 [
-                    "sound/hover.mp3"
+                    "sound/clown_honk.mp3"
                 ],
                 "HOVER_UP":
                 [
-                    "sound/hover.mp3"
+                    "sound/discord_mute.mp3"
                 ],
                 "IMPORTANT_CLICK":
                 [
-                    "sound/important_click.mp3"
+                    "sound/hit_marker.mp3"
                 ],
                 "LEVEL_UPGRADE":
                 [
@@ -65,32 +65,32 @@
                 ],
                 "TAB_CLOSE":
                 [
-                    "sound/close_tab.mp3"
+                    "sound/vine_boom.mp3"
                 ],
                 "TAB_INSERT":
                 [
-                    "sound/new_tab.mp3"
+                    "sound/discord_unmute.mp3"
                 ],
                 "TAB_SLASH":
                 [
-                    "sound/tab_slash.mp3"
+                    "sound/discord_mute.mp3"
                 ]
             },
             "keyboard_sounds":
             {
                 "TYPING_BACKSPACE":
                 [
-                    "keyboard/thud.mp3"
+                    "keyboard/yoda_lego.mp3"
                 ],
                 "TYPING_ENTER":
                 [
-                    "keyboard/amogus.mp3"
+                    "keyboard/anime_wow.mp3"
                 ],
                 "TYPING_LETTER":
                 [
                     "keyboard/bruh.mp3",
-                    "keyboard/bruh.mp3",
-                    "keyboard/bruh.mp3"
+                    "keyboard/gnome.mp3",
+                    "keyboard/taco_dong.mp3"
                 ],
                 "TYPING_SPACE":
                 [
@@ -163,7 +163,7 @@
             {
                 "dark":
                 {   
-                    "image": "wallpaper/thumbnail.png",
+                    "image": "wallpaper/mine_craft.png",
                     "text_color": "#FFFFFF",
                     "text_shadow": "#757575"
                 },
@@ -178,6 +178,6 @@
         },
         "schema_version": 1
     },
-    "name": "MOD NAME GOES HERE",
+    "name": "Funny hehehe ha",
     "version": "1.0"
 }
